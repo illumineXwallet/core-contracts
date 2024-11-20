@@ -112,6 +112,12 @@ export const ASSETS_LIST: Record<string, AssetInfo[]> = {
             name: "ethDAI",
             symbol: "ethDAI",
             decimals: 18
+        },
+        {
+            token: "0x2260FAC5E5542a773Aa44fBCfeDf7C193bc2C599",
+            name: "ethWBTC",
+            symbol: "ethWBTC",
+            decimals: 8
         }
     ],
 
